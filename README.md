@@ -10,10 +10,6 @@ This guide provides detailed instructions on how to use the IDA & Fragility Curv
 
 To launch the application, navigate to the directory where the Python script is located and run the script using Python. The first time it will take some time to open it, and if it does not work, please open it with administration rights.
 
-```bash
-python Publish.py
-```
-
 ## 2. Interface Overview
 
 The application opens with a table for data entry and a series of buttons for various operations. The table includes the following eight columns: 
