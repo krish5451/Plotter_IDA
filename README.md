@@ -17,11 +17,6 @@ The application opens with a table for data entry and a series of buttons for va
 1. Intensity Measure
 2. Demand Parameter
 3. Standard Deviation
-4. DP
-5. IM(Median)
-6. Residual
-7. Normsinv(DP)
-8. Ln(IM)
 
 At the top of the interface, you'll find fields for entering the 'Demand Limit' and 'Additional Uncertainty'. 
 
